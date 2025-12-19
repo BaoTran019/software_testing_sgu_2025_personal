@@ -7,8 +7,11 @@ A learning process tracking of Software Testing course produced by SaiGon Univer
 
 ## My information
 **Full name:** Tran Gia Bao
+
 **Student ID:** 3122411013
+
 **Class:** DCT122C2
+
 **Course:** Software Testing (SaiGon University _ 1st semester _ 2025-2026)
 
 ---
@@ -19,7 +22,7 @@ I would like thank my teacher - **D.N.Tai** - to impart Software Testing knowled
 ---
 
 ## Lab 1:
-I learn what is Software Testing. I practice with a C++ unit test example
+I learn what Software Testing is. I practice with a C++ unit test example
 
 ### How to practice with C++ unit test example
 ### 1. Clone the repository 
